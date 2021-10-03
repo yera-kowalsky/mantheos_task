@@ -1,0 +1,18 @@
+[
+    {
+        "icon": "bx bx-error",
+        "content": "Something wrong"
+    },
+    {
+        "icon": "bx bx-message-rounded-dots",
+        "content": "You got a message"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "There is one credit"
+    },
+    {
+        "icon": "bx bx-error",
+        "content": "Please save your data"
+    }
+]
